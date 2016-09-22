@@ -1,0 +1,17 @@
+jedi
+droid
+sandpeople
+wookiee
+galaxy
+force
+alderaan
+amidala
+anakin
+bobba 
+clone 
+skywalker
+rebel
+sith
+knight
+obiwan
+master

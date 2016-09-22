@@ -1,0 +1,46 @@
+/* Project 2 - PHP Basics - Password Generator  */
+/* Jannette Atiles Nazario  */
+/* CSCI E-15  */
+/* 9/22/2016  */
+
+
+body {
+		font-family: Tahoma, Geneva, sans-serif;
+       	font-size: 110%px;
+   		line-height: 1em;
+		background-image:url('stars.jpg'); 
+		background-repeat: repeat;
+}
+
+
+.wrapper  {
+		width: 600px;   
+		height: 430px;
+		margin: auto;
+		padding-top: 0px;
+		border: solid gray thin;
+		text-align: center;
+		margin-top: 50px;
+		background-color: white;
+ }
+
+
+.password {
+		color: green;
+		font-size: 150%;
+		padding-top: 30px;
+		padding-bottom: 15px;
+}
+
+.button   {
+		font-size: 100%;
+		margin-top: 15px;
+		margin-bottom: 15px;
+}
+
+.error    {
+		color: red;
+		margin-top: 15px;
+		margin-bottom: 50px;
+}
+
