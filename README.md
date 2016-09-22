@@ -6,7 +6,7 @@
 ## Description
 Project Goals: The goal of this project is to give the students hands-on practice with PHP basics.
 
-Tasks: Create a xkcd style password generator. The solution should have inputs for how many words to use and whether to include a number or a symbol. The password generator will have basic server-side validation.
+Tasks: Create a xkcd style password generator. The solution should have inputs for how many words to use and whether to include a number or a symbol. The password generator will have basic server-side validation to ensure the valid number of words is entered.
 
 
 ## Demo
