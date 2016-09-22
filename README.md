@@ -10,7 +10,7 @@ Tasks: Create a xkcd style password generator. The solution should have inputs f
 
 
 ## Demo
-To be added
+http://screencast.com/t/ClFl6MNyOWu
 
 ## Details for teaching team
 No login required.
