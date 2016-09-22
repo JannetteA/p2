@@ -31,17 +31,15 @@
 
 				<p>
 				Add a number to the password?
-				<input type="radio" name="add_number" id="add_number"  value="yes">Yes
-				<input type="radio" name="add_number2" id="add_number2"  value="no">No
+				<input type='checkbox' name='add_number' id='add_number'  value='yes'>
 				</p>
 
 				<p>
 				Add a symbol to the password?
-				<input type="radio" name="add_symbol" id="add_symbol"  value="yes">Yes
-				<input type="radio" name="add_symbol2" id="add_symbol2"  value="no">No
+				<input type='checkbox' name='add_symbol' id='add_symbol'  value='yes'>
 				</p>
 
-				<input class="button" type="submit" value="Generate Password">
+				<input class='button' type='submit' value='Generate Password'>
 	
 			</form>
 
